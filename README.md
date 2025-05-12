@@ -2,9 +2,6 @@
 
 A simple and clean weather application that allows users to search for the current weather of any city using the OpenWeatherMap API.
 
-## 🌐 Live Demo
-
-[Click here to view the live app](https://your-live-site-link.com)
 
 ## 🚀 Features
 
