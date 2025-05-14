@@ -12,7 +12,8 @@ A simple and clean weather application that allows users to search for the curre
 
 ## 📸 Screenshots
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](s1.png)
+![Weather App Screenshot](s2.png)
 
 ## 🛠️ Technologies Used
 
